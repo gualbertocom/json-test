@@ -31,38 +31,6 @@
                 "localidad": "Locatidad X",
                 "municipio": "Metepec"                
             }
-        },
-        {
-            "idVisita": 1001,
-            "idUsuario": 1000,
-            "fecha": "01/01/2020",
-            "municipio": "Metepec",
-            "visitado": "Juan Perez Perez",
-            "tipoVisita": "tipoVisita",
-            "domParticular": {
-                "calle": "Calle X",
-                "noExterior": "1234",
-                "entreCalle": "Entre Calle",
-                "yCalle": "Y Calle",
-                "codigoPostal": "50200",
-                "estado": "Estado de MÈxico",
-                "noInterior": "N/A",
-                "otraRef": "Otra referencia",
-                "localidad": "Locatidad X",
-                "municipio": "Metepec"                
-            },
-            "domUniProductora": {
-                "calle": "Calle X",
-                "noExterior": "1234",
-                "entreCalle": "Entre Calle",
-                "yCalle": "Y Calle",
-                "codigoPostal": "50200",
-                "estado": "Estado de MÈxico",
-                "noInterior": "N/A",
-                "otraRef": "Otra referencia",
-                "localidad": "Locatidad X",
-                "municipio": "Metepec"                
-            }
         }
     ]
 } 
