@@ -1,0 +1,413 @@
+{
+
+    "auth": {
+        "idUsuario": 1000,
+        "nombre": "Gualberto GÛmez GÛmez"        
+    },
+
+    "visitasPendientes": [
+        {
+            "idVisita": 1000,
+            "idUsuario": 1000,
+            "fecha": "01/01/2020",
+            "municipio": "Metepec",
+            "visitado": "Juan Perez Perez",
+            "tipoVisita": "tipoVisita",
+            "domParticular": {
+                "calle": "Calle X",
+                "noExterior": "1234",
+                "entreCalle": "Entre Calle",
+                "yCalle": "Y Calle",
+                "codigoPostal": "50200",
+                "estado": "Estado de MÈxico",
+                "noInterior": "N/A",
+                "otraRef": "Otra referencia",
+                "localidad": "Locatidad X",
+                "municipio": "Metepec"                
+            },
+            "domUniProductora": {
+                "calle": "Calle X",
+                "noExterior": "1234",
+                "entreCalle": "Entre Calle",
+                "yCalle": "Y Calle",
+                "codigoPostal": "50200",
+                "estado": "Estado de MÈxico",
+                "noInterior": "N/A",
+                "otraRef": "Otra referencia",
+                "localidad": "Locatidad X",
+                "municipio": "Metepec"                
+            }
+        },
+        {
+            "idVisita": 1001,
+            "idUsuario": 1000,
+            "fecha": "01/01/2020",
+            "municipio": "Metepec",
+            "visitado": "Juan Perez Perez",
+            "tipoVisita": "tipoVisita",
+            "domParticular": {
+                "calle": "Calle X",
+                "noExterior": "1234",
+                "entreCalle": "Entre Calle",
+                "yCalle": "Y Calle",
+                "codigoPostal": "50200",
+                "estado": "Estado de MÈxico",
+                "noInterior": "N/A",
+                "otraRef": "Otra referencia",
+                "localidad": "Locatidad X",
+                "municipio": "Metepec"                
+            },
+            "domUniProductora": {
+                "calle": "Calle X",
+                "noExterior": "1234",
+                "entreCalle": "Entre Calle",
+                "yCalle": "Y Calle",
+                "codigoPostal": "50200",
+                "estado": "Estado de MÈxico",
+                "noInterior": "N/A",
+                "otraRef": "Otra referencia",
+                "localidad": "Locatidad X",
+                "municipio": "Metepec"                
+            }
+        },
+        {
+            "idVisita": 1002,
+            "idUsuario": 1000,
+            "fecha": "01/01/2020",
+            "municipio": "Metepec",
+            "visitado": "Juan Perez Perez",
+            "tipoVisita": "tipoVisita",
+            "domParticular": {
+                "calle": "Calle X",
+                "noExterior": "1234",
+                "entreCalle": "Entre Calle",
+                "yCalle": "Y Calle",
+                "codigoPostal": "50200",
+                "estado": "Estado de MÈxico",
+                "noInterior": "N/A",
+                "otraRef": "Otra referencia",
+                "localidad": "Locatidad X",
+                "municipio": "Metepec"                
+            },
+            "domUniProductora": {
+                "calle": "Calle X",
+                "noExterior": "1234",
+                "entreCalle": "Entre Calle",
+                "yCalle": "Y Calle",
+                "codigoPostal": "50200",
+                "estado": "Estado de MÈxico",
+                "noInterior": "N/A",
+                "otraRef": "Otra referencia",
+                "localidad": "Locatidad X",
+                "municipio": "Metepec"                
+            }
+        },
+        {
+            "idVisita": 1003,
+            "idUsuario": 1000,
+            "fecha": "01/01/2020",
+            "municipio": "Metepec",
+            "visitado": "Juan Perez Perez",
+            "tipoVisita": "tipoVisita",
+            "domParticular": {
+                "calle": "Calle X",
+                "noExterior": "1234",
+                "entreCalle": "Entre Calle",
+                "yCalle": "Y Calle",
+                "codigoPostal": "50200",
+                "estado": "Estado de MÈxico",
+                "noInterior": "N/A",
+                "otraRef": "Otra referencia",
+                "localidad": "Locatidad X",
+                "municipio": "Metepec"                
+            },
+            "domUniProductora": {
+                "calle": "Calle X",
+                "noExterior": "1234",
+                "entreCalle": "Entre Calle",
+                "yCalle": "Y Calle",
+                "codigoPostal": "50200",
+                "estado": "Estado de MÈxico",
+                "noInterior": "N/A",
+                "otraRef": "Otra referencia",
+                "localidad": "Locatidad X",
+                "municipio": "Metepec"                
+            }
+        },
+        {
+            "idVisita": 1004,
+            "idUsuario": 1000,
+            "fecha": "01/01/2020",
+            "municipio": "Metepec",
+            "visitado": "Juan Perez Perez",
+            "tipoVisita": "tipoVisita",
+            "domParticular": {
+                "calle": "Calle X",
+                "noExterior": "1234",
+                "entreCalle": "Entre Calle",
+                "yCalle": "Y Calle",
+                "codigoPostal": "50200",
+                "estado": "Estado de MÈxico",
+                "noInterior": "N/A",
+                "otraRef": "Otra referencia",
+                "localidad": "Locatidad X",
+                "municipio": "Metepec"                
+            },
+            "domUniProductora": {
+                "calle": "Calle X",
+                "noExterior": "1234",
+                "entreCalle": "Entre Calle",
+                "yCalle": "Y Calle",
+                "codigoPostal": "50200",
+                "estado": "Estado de MÈxico",
+                "noInterior": "N/A",
+                "otraRef": "Otra referencia",
+                "localidad": "Locatidad X",
+                "municipio": "Metepec"                
+            }
+        },
+        {
+            "idVisita": 1005,
+            "idUsuario": 1000,
+            "fecha": "01/01/2020",
+            "municipio": "Metepec",
+            "visitado": "Juan Perez Perez",
+            "tipoVisita": "tipoVisita",
+            "domParticular": {
+                "calle": "Calle X",
+                "noExterior": "1234",
+                "entreCalle": "Entre Calle",
+                "yCalle": "Y Calle",
+                "codigoPostal": "50200",
+                "estado": "Estado de MÈxico",
+                "noInterior": "N/A",
+                "otraRef": "Otra referencia",
+                "localidad": "Locatidad X",
+                "municipio": "Metepec"                
+            },
+            "domUniProductora": {
+                "calle": "Calle X",
+                "noExterior": "1234",
+                "entreCalle": "Entre Calle",
+                "yCalle": "Y Calle",
+                "codigoPostal": "50200",
+                "estado": "Estado de MÈxico",
+                "noInterior": "N/A",
+                "otraRef": "Otra referencia",
+                "localidad": "Locatidad X",
+                "municipio": "Metepec"                
+            }
+        }
+    ],
+    "visitasRealizadas": [
+        {
+            "idVisita": 1000,
+            "idUsuario": 1000,
+            "fecha": "01/01/2020",
+            "municipio": "Metepec",
+            "visitado": "Juan Perez Perez",
+            "tipoVisita": "tipoVisita",
+            "domParticular": {
+                "calle": "Calle X",
+                "noExterior": "1234",
+                "entreCalle": "Entre Calle",
+                "yCalle": "Y Calle",
+                "codigoPostal": "50200",
+                "estado": "Estado de MÈxico",
+                "noInterior": "N/A",
+                "otraRef": "Otra referencia",
+                "localidad": "Locatidad X",
+                "municipio": "Metepec"                
+            },
+            "domUniProductora": {
+                "calle": "Calle X",
+                "noExterior": "1234",
+                "entreCalle": "Entre Calle",
+                "yCalle": "Y Calle",
+                "codigoPostal": "50200",
+                "estado": "Estado de MÈxico",
+                "noInterior": "N/A",
+                "otraRef": "Otra referencia",
+                "localidad": "Locatidad X",
+                "municipio": "Metepec"                
+            }
+        },
+        {
+            "idVisita": 1001,
+            "idUsuario": 1000,
+            "fecha": "01/01/2020",
+            "municipio": "Metepec",
+            "visitado": "Juan Perez Perez",
+            "tipoVisita": "tipoVisita",
+            "domParticular": {
+                "calle": "Calle X",
+                "noExterior": "1234",
+                "entreCalle": "Entre Calle",
+                "yCalle": "Y Calle",
+                "codigoPostal": "50200",
+                "estado": "Estado de MÈxico",
+                "noInterior": "N/A",
+                "otraRef": "Otra referencia",
+                "localidad": "Locatidad X",
+                "municipio": "Metepec"                
+            },
+            "domUniProductora": {
+                "calle": "Calle X",
+                "noExterior": "1234",
+                "entreCalle": "Entre Calle",
+                "yCalle": "Y Calle",
+                "codigoPostal": "50200",
+                "estado": "Estado de MÈxico",
+                "noInterior": "N/A",
+                "otraRef": "Otra referencia",
+                "localidad": "Locatidad X",
+                "municipio": "Metepec"                
+            }
+        },
+        {
+            "idVisita": 1002,
+            "idUsuario": 1000,
+            "fecha": "01/01/2020",
+            "municipio": "Metepec",
+            "visitado": "Juan Perez Perez",
+            "tipoVisita": "tipoVisita",
+            "domParticular": {
+                "calle": "Calle X",
+                "noExterior": "1234",
+                "entreCalle": "Entre Calle",
+                "yCalle": "Y Calle",
+                "codigoPostal": "50200",
+                "estado": "Estado de MÈxico",
+                "noInterior": "N/A",
+                "otraRef": "Otra referencia",
+                "localidad": "Locatidad X",
+                "municipio": "Metepec"                
+            },
+            "domUniProductora": {
+                "calle": "Calle X",
+                "noExterior": "1234",
+                "entreCalle": "Entre Calle",
+                "yCalle": "Y Calle",
+                "codigoPostal": "50200",
+                "estado": "Estado de MÈxico",
+                "noInterior": "N/A",
+                "otraRef": "Otra referencia",
+                "localidad": "Locatidad X",
+                "municipio": "Metepec"                
+            }
+        },
+        {
+            "idVisita": 1003,
+            "idUsuario": 1000,
+            "fecha": "01/01/2020",
+            "municipio": "Metepec",
+            "visitado": "Juan Perez Perez",
+            "tipoVisita": "tipoVisita",
+            "domParticular": {
+                "calle": "Calle X",
+                "noExterior": "1234",
+                "entreCalle": "Entre Calle",
+                "yCalle": "Y Calle",
+                "codigoPostal": "50200",
+                "estado": "Estado de MÈxico",
+                "noInterior": "N/A",
+                "otraRef": "Otra referencia",
+                "localidad": "Locatidad X",
+                "municipio": "Metepec"                
+            },
+            "domUniProductora": {
+                "calle": "Calle X",
+                "noExterior": "1234",
+                "entreCalle": "Entre Calle",
+                "yCalle": "Y Calle",
+                "codigoPostal": "50200",
+                "estado": "Estado de MÈxico",
+                "noInterior": "N/A",
+                "otraRef": "Otra referencia",
+                "localidad": "Locatidad X",
+                "municipio": "Metepec"                
+            }
+        },
+        {
+            "idVisita": 1004,
+            "idUsuario": 1000,
+            "fecha": "01/01/2020",
+            "municipio": "Metepec",
+            "visitado": "Juan Perez Perez",
+            "tipoVisita": "tipoVisita",
+            "domParticular": {
+                "calle": "Calle X",
+                "noExterior": "1234",
+                "entreCalle": "Entre Calle",
+                "yCalle": "Y Calle",
+                "codigoPostal": "50200",
+                "estado": "Estado de MÈxico",
+                "noInterior": "N/A",
+                "otraRef": "Otra referencia",
+                "localidad": "Locatidad X",
+                "municipio": "Metepec"                
+            },
+            "domUniProductora": {
+                "calle": "Calle X",
+                "noExterior": "1234",
+                "entreCalle": "Entre Calle",
+                "yCalle": "Y Calle",
+                "codigoPostal": "50200",
+                "estado": "Estado de MÈxico",
+                "noInterior": "N/A",
+                "otraRef": "Otra referencia",
+                "localidad": "Locatidad X",
+                "municipio": "Metepec"                
+            }
+        },
+        {
+            "idVisita": 1005,
+            "idUsuario": 1000,
+            "fecha": "01/01/2020",
+            "municipio": "Metepec",
+            "visitado": "Juan Perez Perez",
+            "tipoVisita": "tipoVisita",
+            "domParticular": {
+                "calle": "Calle X",
+                "noExterior": "1234",
+                "entreCalle": "Entre Calle",
+                "yCalle": "Y Calle",
+                "codigoPostal": "50200",
+                "estado": "Estado de MÈxico",
+                "noInterior": "N/A",
+                "otraRef": "Otra referencia",
+                "localidad": "Locatidad X",
+                "municipio": "Metepec"                
+            },
+            "domUniProductora": {
+                "calle": "Calle X",
+                "noExterior": "1234",
+                "entreCalle": "Entre Calle",
+                "yCalle": "Y Calle",
+                "codigoPostal": "50200",
+                "estado": "Estado de MÈxico",
+                "noInterior": "N/A",
+                "otraRef": "Otra referencia",
+                "localidad": "Locatidad X",
+                "municipio": "Metepec"                
+            }
+        }
+    ],
+    "setVisita":{
+        "idVisita": 1000,
+        "idUsuario": 1000,
+        "Observaciones": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent hendrerit quam arcu, a eleifend purus sagittis quis. Duis luctus vitae quam in vestibulum. Maecenas aliquet ac quam quis bibendum. Vivamus fringilla ut justo at vehicula."
+    },
+    "setImagen":{
+        "idVisita": 1000,
+        "idUsuario": 1000,
+        "nombre": "Imagen123.jpg",
+        "file": "Multipart"
+    },
+    "setVideo":{
+        "idVisita": 1000,
+        "idUsuario": 1000,
+        "nombre": "Video123.jpg",
+        "file": "Multipart"
+    }
+} 
