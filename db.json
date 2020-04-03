@@ -1,36 +1,41 @@
 {
     "visitasPendientes": [
         {
-            "idVisita": 1000,
+            "idVisita": 1,
             "idUsuario": 1000,
             "fecha": "01/01/2020",
             "municipio": "Metepec",
             "visitado": "Juan Perez Perez",
             "tipoVisita": "tipoVisita",
+            "estatus": 1,
             "domParticular": {
-                "calle": "Calle X",
-                "noExterior": "1234",
-                "entreCalle": "Entre Calle",
-                "yCalle": "Y Calle",
-                "codigoPostal": "50200",
-                "estado": "Estado de MÈxico",
-                "noInterior": "N/A",
-                "otraRef": "Otra referencia",
-                "localidad": "Locatidad X",
-                "municipio": "Metepec"                
+                "idDomicilio": 1,
+                "idVisita": 1,
+              "calle": "Calle X",
+              "noExterior": "1234",
+              "entreCalle": "Entre Calle",
+              "yCalle": "Y Calle",
+              "codigoPostal": "50200",
+              "estado": "Estado de M�xico",
+              "noInterior": "N/A",
+              "otraRef": "Otra referencia",
+              "localidad": "Locatidad X",
+              "municipio": "Metepec"
             },
             "domUniProductora": {
-                "calle": "Calle X",
-                "noExterior": "1234",
-                "entreCalle": "Entre Calle",
-                "yCalle": "Y Calle",
-                "codigoPostal": "50200",
-                "estado": "Estado de MÈxico",
-                "noInterior": "N/A",
-                "otraRef": "Otra referencia",
-                "localidad": "Locatidad X",
-                "municipio": "Metepec"                
+                "idDomicilio": 2,
+              "idVisita": 1,
+              "calle": "Calle X",
+              "noExterior": "1234",
+              "entreCalle": "Entre Calle",
+              "yCalle": "Y Calle",
+              "codigoPostal": "50200",
+              "estado": "Estado de M�xico",
+              "noInterior": "N/A",
+              "otraRef": "Otra referencia",
+              "localidad": "Locatidad X",
+              "municipio": "Metepec"
             }
-        }
+          }
     ]
 } 
