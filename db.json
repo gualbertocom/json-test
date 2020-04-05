@@ -36,6 +36,42 @@
 "localidad":"Locatidad X",
 "municipio":"Metepec"
 }
-}
+},{
+      "idVisita": 2,
+      "idUsuario": 1000,
+      "fecha": "01/01/2020",
+      "municipio": "Toluca",
+      "visitado": "Juan Perez X",
+      "tipoVisita": "tipoVisita",
+      "estatus": 1,
+      "domParticular": {
+        "idDomicilio": 3,
+        "idVisita": 2,
+        "calle": "Calle Y",
+        "noExterior": "1234",
+        "entreCalle": "Entre Calle",
+        "yCalle": "Y Calle",
+        "codigoPostal": "50200",
+        "estado": "Estado de Mexico",
+        "noInterior": "N/A",
+        "otraRef": "Otra referencia",
+        "localidad": "Locatidad X",
+        "municipio": "Metepec"
+      },
+      "domUniProductora": {
+        "idDomicilio": 4,
+        "idVisita": 2,
+        "calle": "Calle Z",
+        "noExterior": "1234",
+        "entreCalle": "Entre Calle",
+        "yCalle": "Y Calle",
+        "codigoPostal": "50200",
+        "estado": "Estado de Mexico",
+        "noInterior": "N/A",
+        "otraRef": "Otra referencia",
+        "localidad": "Locatidad X",
+        "municipio": "Metepec"
+      }
+    }
 ]
 }
