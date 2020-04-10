@@ -1,77 +1,194 @@
-{
-"visitasPendientes":[
-{
-"idVisita":1,
-"idUsuario":1000,
-"fecha":"01/01/2020",
-"municipio":"Metepec",
-"visitado":"Juan Perez Perez",
-"tipoVisita":"tipoVisita",
-"estatus":1,
-"domParticular":{
-"idDomicilio":1,
-"idVisita":1,
-"calle":"Calle X",
-"noExterior":"1234",
-"entreCalle":"Entre Calle",
-"yCalle":"Y Calle",
-"codigoPostal":"50200",
-"estado":"Estado de Mexico",
-"noInterior":"N/A",
-"otraRef":"Otra referencia",
-"localidad":"Locatidad X",
-"municipio":"Metepec"
-},
-"domUniProductora":{
-"idDomicilio":2,
-"idVisita":1,
-"calle":"Calle X",
-"noExterior":"1234",
-"entreCalle":"Entre Calle",
-"yCalle":"Y Calle",
-"codigoPostal":"50200",
-"estado":"Estado de Mexico",
-"noInterior":"N/A",
-"otraRef":"Otra referencia",
-"localidad":"Locatidad X",
-"municipio":"Metepec"
-}
-},{
-      "idVisita": 2,
-      "idUsuario": 1000,
-      "fecha": "01/01/2020",
-      "municipio": "Toluca",
-      "visitado": "Juan Perez X",
-      "tipoVisita": "tipoVisita",
-      "estatus": 1,
-      "domParticular": {
-        "idDomicilio": 3,
-        "idVisita": 2,
-        "calle": "Calle Y",
-        "noExterior": "1234",
-        "entreCalle": "Entre Calle",
-        "yCalle": "Y Calle",
-        "codigoPostal": "50200",
-        "estado": "Estado de Mexico",
-        "noInterior": "N/A",
-        "otraRef": "Otra referencia",
-        "localidad": "Locatidad X",
-        "municipio": "Metepec"
+[
+   {
+      "idVisita":1,
+      "idUsuario":2,
+      "tipoVisita":"VISITA TÉCNICA",
+      "nombre":"Qhuebin",
+      "apPaterno":"Mejia",
+      "apMaterno":"Garcia",
+      "fechaInicio":"06/04/2020 08:00",
+      "fechaFin":"06/04/2020 09:00",
+      "domicilioProductorBO":{
+         "calle":"CONVENTO DE LA CRUZ",
+         "noExterior":"19",
+         "noInterior":"3D",
+         "entreCalle":"PASEO DE LA EVANGELIZACION",
+         "yCalle":"NO APLICA",
+         "otraReferencia":"ENFRENTE DE CFE",
+         "localidad":"Las Misiones",
+         "municipio":"Toluca",
+         "estado":"México"
       },
-      "domUniProductora": {
-        "idDomicilio": 4,
-        "idVisita": 2,
-        "calle": "Calle Z",
-        "noExterior": "1234",
-        "entreCalle": "Entre Calle",
-        "yCalle": "Y Calle",
-        "codigoPostal": "50200",
-        "estado": "Estado de Mexico",
-        "noInterior": "N/A",
-        "otraRef": "Otra referencia",
-        "localidad": "Locatidad X",
-        "municipio": "Metepec"
+      "domicilioParticularBO":{
+         "calle":"NA",
+         "noExterior":"NA",
+         "noInterior":"NA",
+         "entreCalle":"NA",
+         "yCalle":"NA",
+         "otraReferencia":"NA",
+         "localidad":"NA",
+         "municipio":"NA",
+         "estado":"NA"
       }
-    }
+   },
+   {
+      "idVisita":2,
+      "idUsuario":2,
+      "tipoVisita":"VISITA TÉCNICA",
+      "nombre":"Qhuebin",
+      "apPaterno":"Mejia",
+      "apMaterno":"Garcia",
+      "fechaInicio":"06/04/2020 08:00",
+      "fechaFin":"06/04/2020 09:00",
+      "domicilioProductorBO":{
+         "calle":"CONVENTO DE LA CRUZ",
+         "noExterior":"19",
+         "noInterior":"3D",
+         "entreCalle":"PASEO DE LA EVANGELIZACION",
+         "yCalle":"NO APLICA",
+         "otraReferencia":"ENFRENTE DE CFE",
+         "localidad":"Las Misiones",
+         "municipio":"Toluca",
+         "estado":"México"
+      },
+      "domicilioParticularBO":{
+         "calle":"NA",
+         "noExterior":"NA",
+         "noInterior":"NA",
+         "entreCalle":"NA",
+         "yCalle":"NA",
+         "otraReferencia":"NA",
+         "localidad":"NA",
+         "municipio":"NA",
+         "estado":"NA"
+      }
+   },
+   {
+      "idVisita":3,
+      "idUsuario":2,
+      "tipoVisita":"VISITA TÉCNICA",
+      "nombre":"Qhuebin",
+      "apPaterno":"Mejia",
+      "apMaterno":"Garcia",
+      "fechaInicio":"06/04/2020 08:00",
+      "fechaFin":"06/04/2020 09:00",
+      "domicilioProductorBO":{
+         "calle":"CONVENTO DE LA CRUZ",
+         "noExterior":"19",
+         "noInterior":"3D",
+         "entreCalle":"PASEO DE LA EVANGELIZACION",
+         "yCalle":"NO APLICA",
+         "otraReferencia":"ENFRENTE DE CFE",
+         "localidad":"Las Misiones",
+         "municipio":"Toluca",
+         "estado":"México"
+      },
+      "domicilioParticularBO":{
+         "calle":"NA",
+         "noExterior":"NA",
+         "noInterior":"NA",
+         "entreCalle":"NA",
+         "yCalle":"NA",
+         "otraReferencia":"NA",
+         "localidad":"NA",
+         "municipio":"NA",
+         "estado":"NA"
+      }
+   },
+   {
+      "idVisita":4,
+      "idUsuario":2,
+      "tipoVisita":"VISITA TÉCNICA",
+      "nombre":"Qhuebin",
+      "apPaterno":"Mejia",
+      "apMaterno":"Garcia",
+      "fechaInicio":"06/04/2020 08:00",
+      "fechaFin":"06/04/2020 09:00",
+      "domicilioProductorBO":{
+         "calle":"CONVENTO DE LA CRUZ",
+         "noExterior":"19",
+         "noInterior":"3D",
+         "entreCalle":"PASEO DE LA EVANGELIZACION",
+         "yCalle":"NO APLICA",
+         "otraReferencia":"ENFRENTE DE CFE",
+         "localidad":"Las Misiones",
+         "municipio":"Toluca",
+         "estado":"México"
+      },
+      "domicilioParticularBO":{
+         "calle":"NA",
+         "noExterior":"NA",
+         "noInterior":"NA",
+         "entreCalle":"NA",
+         "yCalle":"NA",
+         "otraReferencia":"NA",
+         "localidad":"NA",
+         "municipio":"NA",
+         "estado":"NA"
+      }
+   },
+   {
+      "idVisita":5,
+      "idUsuario":2,
+      "tipoVisita":"VISITA TÉCNICA",
+      "nombre":"Qhuebin",
+      "apPaterno":"Mejia",
+      "apMaterno":"Garcia",
+      "fechaInicio":"06/04/2020 08:00",
+      "fechaFin":"06/04/2020 09:00",
+      "domicilioProductorBO":{
+         "calle":"CONVENTO DE LA CRUZ",
+         "noExterior":"19",
+         "noInterior":"3D",
+         "entreCalle":"PASEO DE LA EVANGELIZACION",
+         "yCalle":"NO APLICA",
+         "otraReferencia":"ENFRENTE DE CFE",
+         "localidad":"Las Misiones",
+         "municipio":"Toluca",
+         "estado":"México"
+      },
+      "domicilioParticularBO":{
+         "calle":"NA",
+         "noExterior":"NA",
+         "noInterior":"NA",
+         "entreCalle":"NA",
+         "yCalle":"NA",
+         "otraReferencia":"NA",
+         "localidad":"NA",
+         "municipio":"NA",
+         "estado":"NA"
+      }
+   },
+   {
+      "idVisita":6,
+      "idUsuario":2,
+      "tipoVisita":"VISITA TÉCNICA",
+      "nombre":"Qhuebin",
+      "apPaterno":"Mejia",
+      "apMaterno":"Garcia",
+      "fechaInicio":"06/04/2020 08:00",
+      "fechaFin":"06/04/2020 09:00",
+      "domicilioProductorBO":{
+         "calle":"CONVENTO DE LA CRUZ",
+         "noExterior":"19",
+         "noInterior":"3D",
+         "entreCalle":"PASEO DE LA EVANGELIZACION",
+         "yCalle":"NO APLICA",
+         "otraReferencia":"ENFRENTE DE CFE",
+         "localidad":"Las Misiones",
+         "municipio":"Toluca",
+         "estado":"México"
+      },
+      "domicilioParticularBO":{
+         "calle":"NA",
+         "noExterior":"NA",
+         "noInterior":"NA",
+         "entreCalle":"NA",
+         "yCalle":"NA",
+         "otraReferencia":"NA",
+         "localidad":"NA",
+         "municipio":"NA",
+         "estado":"NA"
+      }
+   }
 ]
-}
